@@ -1,0 +1,87 @@
+[
+    {
+        "id": "MLB3306024289",
+        "title": "Liquidificador Turbo Power Mondial Vermelho 550w L-99 Fr 220v",
+        "price": 94.9,
+        "seller": {
+            "id": 480263032,
+            "nickname": "Mercado Livre Eletronicos"
+        },
+        "sold_quantity": 0,
+        "Jan": 147,
+        "Feb": 198,
+        "Mar": 115,
+        "Apr": 168,
+        "May": 155,
+        "Jun": 184,
+        "total_vendas": 967
+    },
+    {
+        "id": "MLB3727091339",
+        "title": "Faca El\u00e9trica Mondial Fa-01 Preta - 127v Cor Preto",
+        "price": 149.9,
+        "seller": {
+            "id": 661617966,
+            "nickname": "LOJA_OFICIAL MERCADO_F\u00c1CIL"
+        },
+        "sold_quantity": 0,
+        "Jan": 135,
+        "Feb": 189,
+        "Mar": 137,
+        "Apr": 168,
+        "May": 161,
+        "Jun": 144,
+        "total_vendas": 934
+    },
+    {
+        "id": "MLB2752081947",
+        "title": "Liquidificador L-99-fb Turbo Power 2,2 L Pot\u00eancia De 550w Cor Preto Mondial 220v",
+        "price": 119.9,
+        "seller": {
+            "id": 661617966,
+            "nickname": "LOJA_OFICIAL MERCADO_F\u00c1CIL"
+        },
+        "sold_quantity": 0,
+        "Jan": 133,
+        "Feb": 172,
+        "Mar": 151,
+        "Apr": 140,
+        "May": 181,
+        "Jun": 105,
+        "total_vendas": 882
+    },
+    {
+        "id": "MLB3931542470",
+        "title": "Fritadeira Industrial El\u00e9trica Tacho 5 Litros Redondo Inox Cor Prateado 220v",
+        "price": 194.92,
+        "seller": {
+            "id": 201804936,
+            "nickname": "CASINHA INDUSTRIAL"
+        },
+        "sold_quantity": 0,
+        "Jan": 102,
+        "Feb": 88,
+        "Mar": 132,
+        "Apr": 193,
+        "May": 169,
+        "Jun": 195,
+        "total_vendas": 879
+    },
+    {
+        "id": "MLB3820297539",
+        "title": "Fritadeira Air Fryer El\u00e9trica Start Fry 3,5l 110v Elgin",
+        "price": 189.0,
+        "seller": {
+            "id": 480263032,
+            "nickname": "Mercado Livre Eletronicos"
+        },
+        "sold_quantity": 0,
+        "Jan": 132,
+        "Feb": 152,
+        "Mar": 146,
+        "Apr": 181,
+        "May": 99,
+        "Jun": 145,
+        "total_vendas": 855
+    }
+]
