@@ -81,8 +81,8 @@ O script enviará automaticamente os arquivos gerados para o email que você con
 
 ## 📬 Contatos
 
-- **Autor**: Seu Nome  
-- **Email**: [seuemail@dominio.com](mailto:seuemail@dominio.com)
+- **Autor**: Igor Fiori  
+- **Email**: [seuemail@dominio.com](mailto:fioriqf@gmail.com)
 
 ## 💡 Licença
 
