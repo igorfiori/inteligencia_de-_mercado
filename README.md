@@ -82,7 +82,7 @@ O script enviará automaticamente os arquivos gerados para o email que você con
 ## 📬 Contatos
 
 - **Autor**: Igor Fiori  
-- **Email**: [seuemail@dominio.com](mailto:fioriqf@gmail.com)
+- **Email**: [fioriqf@gmail.com](mailto:fioriqf@gmail.com)
 
 ## 💡 Licença
 
